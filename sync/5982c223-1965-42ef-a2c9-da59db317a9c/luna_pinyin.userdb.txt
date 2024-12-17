@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.11.2
+#@/tick	1
+#@/user_id	5982c223-1965-42ef-a2c9-da59db317a9c
+cheng du 	成都	c=1 d=1 t=1
